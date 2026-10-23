@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://wpeasy.github.io/shipstatic-pages-test/sitemap.xml
