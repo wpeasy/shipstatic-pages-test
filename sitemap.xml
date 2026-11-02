@@ -37,6 +37,15 @@
     <loc>https://wpeasy.github.io/shipstatic-pages-test/category/maintenance/</loc>
   </url>
   <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/category/ss-alpha/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/category/ss-beta/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/category/ss-gamma/</loc>
+  </url>
+  <url>
     <loc>https://wpeasy.github.io/shipstatic-pages-test/category/static-sites/</loc>
   </url>
   <url>
@@ -53,6 +62,9 @@
   </url>
   <url>
     <loc>https://wpeasy.github.io/shipstatic-pages-test/corners/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/demo/</loc>
   </url>
   <url>
     <loc>https://wpeasy.github.io/shipstatic-pages-test/facets-forms/</loc>
@@ -95,6 +107,42 @@
   </url>
   <url>
     <loc>https://wpeasy.github.io/shipstatic-pages-test/snippets-keeping-code-out-of-code-elements/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/ss-filter-test/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/ss-filter-test/page/2/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/ss-filter-test/page/3/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/ss-test-post-1/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/ss-test-post-2/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/ss-test-post-3/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/ss-test-post-4/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/ss-test-post-5/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/ss-test-post-6/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/ss-test-post-7/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/ss-test-post-8/</loc>
+  </url>
+  <url>
+    <loc>https://wpeasy.github.io/shipstatic-pages-test/ss-test-post-9/</loc>
   </url>
   <url>
     <loc>https://wpeasy.github.io/shipstatic-pages-test/static-or-dynamic-wordpress-a-decision-guide/</loc>
